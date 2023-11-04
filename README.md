@@ -10,3 +10,5 @@ The Anki decks are:
 Japanese_Core_2000_2k_-_Sorted_w_Audio
 Japanese_Core_2000_Step_02_Listening_Sentence_Vocab__Images
 Japanese_Visual_Novel_Anime_Manga_LN_Vocab_-_V2K
+
+Godot repo is not complete due to Github limitations. Media files from Anki has to be extracted and included into the Godot folder.
